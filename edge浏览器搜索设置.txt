@@ -1,4 +1,7 @@
 
+搜索引擎
+快捷方式
+URL
 收藏夹
 @最喜欢
 edge://favorites/?q=%s
@@ -14,9 +17,6 @@ https://www.ghxi.com/?s=%s
 Greasy Fork 搜索
 gf
 https://greasyfork.org/zh-CN/scripts?q=%s&page={startPage?}
-致美化
-致美化
-https://zhutix.com/?s=%s
 知乎
 知乎
 https://www.zhihu.com/search?type=content&q=%s
@@ -290,10 +290,7 @@ https://duckduckgo.com/?q=%s+site%3Acn.linux-terminal.com&ia=web
 第一PPT
 第一ppt
 https://duckduckgo.com/?q=%s+site%3Awww.1ppt.com&ia=web
-NJU OS南京大学操作系统 绿导师 | .
-绿导师
-https://jyywiki.cn/%s
-王慧妍-南京大学-操作系统实验
+王慧妍 南京大学 操作系统实验 NJU
 王慧妍
 https://www.google.com/search?q=%s+site%3Awww.why.ink
 中国知网
@@ -644,9 +641,6 @@ https://duckduckgo.com/?q=%s+site%3Azh-hans.react.dev&ia=web
 HelloGithub
 hellogithub
 https://hellogithub.com/search/result?q=%s
-Hello 算法
-hello
-https://duckduckgo.com/?q=%s+site%3Awww.hello-algo.com&ia=web
 Vite 前端构建工具
 vite
 https://duckduckgo.com/?q=%s+site%3Acn.vite.dev&ia=web
@@ -669,7 +663,7 @@ https://duckduckgo.com/?q=%s+site%3Awww.cyzone.cn&ia=web
 电手
 https://duckduckgo.com/?q=%s+site%3Awww.dians.net&ia=web
 FreeBuf 网安
-free
+fb
 https://www.freebuf.com/search?search=%s
 澎湃新闻
 澎湃
