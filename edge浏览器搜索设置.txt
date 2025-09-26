@@ -215,9 +215,6 @@ https://xueqiu.com/k?q=%s
 Hugging Face
 hugging
 https://duckduckgo.com/?q=%s+site%3Ahuggingface.co&ia=web
-Ollama
-ollama
-https://duckduckgo.com/?q=%s+site%3Aollama.com&ia=web
 Docker Hub
 dockerhub
 https://hub.docker.com/search?q=%s
@@ -317,21 +314,6 @@ https://www.google.com/search?q=%s+site%3Aecharts.apache.org
 Element Plus VueUI库
 element
 https://duckduckgo.com/?q=%s+site%3Aelement-plus.org&ia=web
-GO圣经 | .
-go圣经
-https://gopl-zh.github.io/%s
-Go指南
-go指南
-https://duckduckgo.com/?q=%s+site%3Atour.go-zh.org&ia=web
-Golang中文
-golang中文
-https://duckduckgo.com/?q=%s+site%3Agolang.halfiisland.com&ia=web
-go中文
-go中文
-https://duckduckgo.com/?q=%s+site%3Awww.topgoer.com&ia=web
-Golang
-golang
-https://duckduckgo.com/?q=%s+site%3Agolang.google.cn&ia=web
 芒果TV
 芒果
 https://so.mgtv.com/so?k=%s&lastp=ch_home
@@ -524,9 +506,6 @@ https://duckduckgo.com/?q=%s+site%3Asqlite.readdevdocs.com&ia=web
 SQLite
 sqlite
 https://www.sqlite.org/search?q=%s
-Go语言中文网 社区
-go语言
-https://studygolang.com/search?q=%s
 菜鸟鸭教程
 菜鸟鸭
 https://duckduckgo.com/?q=%s+site%3Awww.cainiaoya.com&ia=web
@@ -632,9 +611,6 @@ https://duckduckgo.com/?q=%s+site%3Awww.selenium.dev%2Fzh-cn%2F&ia=web
 uv Py包和项目管理工具 | .
 uv
 https://hellowac.github.io/uv-zh-cn/%s
-CS自学指南
-cs
-https://duckduckgo.com/?q=%s+site%3Acsdiy.wiki&ia=web
 React
 react
 https://duckduckgo.com/?q=%s+site%3Azh-hans.react.dev&ia=web
@@ -875,9 +851,6 @@ https://www.iyf.tv/search/%s
 歌词网
 歌词网
 https://lyrics.net.cn/search/?q=%s
-Cursor
-cursor
-https://duckduckgo.com/?q=%s+site%3Acursor.com&ia=web
 Shodan 网安 红队
 shodan
 https://www.shodan.io/search?query=%s&ref=os
@@ -1073,9 +1046,6 @@ http://www.postgres.cn/v2/home/%s
 搜狗
 sogou.com
 https://www.sogou.com/web?ie={inputEncoding}&query=%s
-Google
-google.com
-{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchboxStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
 Copilot
 @copilot
 https://copilot.microsoft.com/?q=%s&form=EDGAAC
@@ -1100,9 +1070,6 @@ https://ikuuu.one/%s
 unocss 中文文档 | .
 uno
 https://unocss.net/%s
-GORM golang 数据库 | .
-gorm
-https://gorm.io/zh_CN/%s
 Vuetify Vue 组件 | .
 vuetify
 https://vuetifyjs.com/zh-Hans/%s
@@ -1112,9 +1079,6 @@ https://flipflow.neverup.cn/clock%shtml
 GeoGebra 计算器 | .
 计算器
 https://www.geogebra.org/%s
-刘丹冰 golang | .
-刘丹冰
-https://www.yuque.com/aceld/%s
 Redis | .
 redis
 https://www.redis.net.cn/%s
