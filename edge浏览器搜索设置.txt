@@ -1,3 +1,4 @@
+
 搜索引擎
 快捷方式
 URL
@@ -238,9 +239,6 @@ https://sou.xiaolanben.com/search?key=%s&page=1
 辽宁科技大学官网
 辽科大
 https://duckduckgo.com/?q=%s+site%3Awww.ustl.edu.cn&ia=web
-模板王
-模板王
-https://duckduckgo.com/?q=%s+site%3Awww.mobanwang.com&ia=web
 天池
 天池
 https://tianchi.aliyun.com/search?q=%s
@@ -289,9 +287,6 @@ https://arxiv.org/search/?query=%s&searchtype=all&source=header
 Papers With Code
 paper
 https://paperswithcode.com/search?q_meta=&q_type=&q=%s
-赛氪竞赛
-赛氪
-https://www.saikr.com/search?search=%s
 数据集
 数据集
 https://www.selectdataset.com/search?key=%s
@@ -400,9 +395,6 @@ https://dsxys.com/sb/kemksmaksdl7nhZe3c1-.html?wd=%s
 爱看视频
 爱看
 https://v.ikanbot.com/search?q=%s
-Beautifulsoup爬虫解析ML文件BS4
-bs
-https://duckduckgo.com/?q=%s+site%3Abeautifulsoup.cn&ia=web
 跑跑车
 跑跑车
 https://duckduckgo.com/?q=%s+site%3Awww.paopaoche.net&ia=web
@@ -412,9 +404,6 @@ https://so.3dmgame.com/?keyword=%s
 3DM游戏
 3dm游戏
 https://duckduckgo.com/?q=%s+site%3Adl.3dmgame.com&ia=web
-模版王
-模版王
-https://duckduckgo.com/?q=%s+site%3Awww.mobanwang.com&ia=web
 百度
 baidu
 https://www.baidu.com/#tn=68018901_7_oem_dg&ie={inputEncoding}&wd=%s
@@ -595,9 +584,6 @@ https://www.google.com/search?q=%s+site%3Acxcy.upln.cn
 IconPark 字节开源矢量图标库
 iconp
 https://duckduckgo.com/?q=%s+site%3Aiconpark.oceanengine.com&ia=web
-Selenium 浏览器自动化
-sel
-https://duckduckgo.com/?q=%s+site%3Awww.selenium.dev%2Fzh-cn%2F&ia=web
 uv Py包和项目管理工具 | .
 uv
 https://hellowac.github.io/uv-zh-cn/%s
