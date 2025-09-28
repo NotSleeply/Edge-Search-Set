@@ -128,9 +128,6 @@ bing.com
 Bing
 bing
 https://www.bing.com/search?q=%s
-AcFun
-acfun
-https://www.acfun.cn/search?keyword=%s
 淘宝
 淘宝
 https://s.taobao.com/search?commend=all&ie=utf8&initiative_id=tbindexz_20170306&page=1&preLoadOrigin=https%3A%2F%2Fwww.taobao.com&q=%s&search_type=item&sourceId=tb.index&spm=a21bo.jianhua%2Fa.search_.0&ssid=s5-e&tab=all
@@ -155,9 +152,6 @@ https://duckduckgo.com/?q=%s+site%3Anpm.nodejs.cn&ia=web
 Git文档
 git
 https://duckduckgo.com/?q=%s+site%3Agit-scm.com&ia=web
-微博 娱乐 明星
-微博
-https://s.weibo.com/weibo?q=%s
 QQ音乐
 qq音乐
 https://y.qq.com/n/ryqq/search?w=%s&t=song&remoteplace=txt.yqq.top
@@ -188,9 +182,6 @@ https://pd.qq.com/g/search?keyword=%s
 吾爱破解
 吾爱
 https://duckduckgo.com/?q=%s+site%3A52pojie.cn&ia=web
-Cppreference
-cpp
-https://duckduckgo.com/?sites=cppreference.cn&q=%s&ia=web
 国家法律法规数据库
 法律
 https://duckduckgo.com/?q=%s+site%3Aflk.npc.gov.cn&ia=web
@@ -221,9 +212,6 @@ https://hub.docker.com/search?q=%s
 Docker文档
 docker文档
 https://duckduckgo.com/?q=%s+site%3Adocker.cadn.net.cn&ia=web
-极客文档书籍
-极客文档
-https://duckduckgo.com/?q=%s+site%3Ageekdaxue.co&ia=web
 数据库教程
 数据库教程
 https://duckduckgo.com/?q=%s+site%3Awww.sjkjc.com&ia=web
@@ -248,9 +236,6 @@ https://developers.weixin.qq.com/doc/search.html?source=enter&query=%s
 Linux命令
 linux
 https://www.linuxcool.com/?s=%s
-开发者导航
-开发者导航
-https://codernav.com/?post_type=sites&s=%s
 VM文档
 vm
 https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/search.html?q=%s&page=1
@@ -260,24 +245,12 @@ https://duckduckgo.com/?q=%s+site%3Abashcommandnotfound.cn&ia=web
 北大数学
 北大数学
 https://duckduckgo.com/?q=%s+site%3Awww.math.pku.edu.cn&ia=web
-腾讯视频
-腾讯视频
-https://v.qq.com/x/search/?q=%s&queryFrom=0
-优酷
-优酷
-https://so.youku.com/search/q_%s
-红果短剧
-红果
-https://duckduckgo.com/?q=%s+site%3Awww.hongguo123.com&ia=web
 Linux文章教程
 linux教程
 https://duckduckgo.com/?q=%s+site%3Acn.linux-terminal.com&ia=web
 第一PPT
 第一ppt
 https://duckduckgo.com/?q=%s+site%3Awww.1ppt.com&ia=web
-王慧妍 南京大学 操作系统实验 NJU
-王慧妍
-https://www.google.com/search?q=%s+site%3Awww.why.ink
 中国知网
 知网
 https://kns.cnki.net/kns8s/defaultresult/index?kw=%s
@@ -293,15 +266,6 @@ https://www.selectdataset.com/search?key=%s
 kaggle
 kaggle
 https://www.kaggle.com/search?q=%s
-Apache ECharts可视化图表库
-ehcarts
-https://www.google.com/search?q=%s+site%3Aecharts.apache.org
-Element Plus VueUI库
-element
-https://duckduckgo.com/?q=%s+site%3Aelement-plus.org&ia=web
-芒果TV
-芒果
-https://so.mgtv.com/so?k=%s&lastp=ch_home
 MDN
 mdn
 https://duckduckgo.com/?q=%s+site%3Adeveloper.mozilla.org&ia=web
@@ -311,9 +275,6 @@ https://www.volcengine.com/docs/search?q=%s
 洛谷OJ
 洛谷
 https://www.luogu.com.cn/problem/list?keyword=%s
-安居客
-安居客
-https://sy.anjuke.com/sale/rd1/?kw=%s
 佛系软件
 佛系
 https://foxirj.com/search/%s
@@ -329,15 +290,9 @@ https://www.lxapk.com/?s=%s
 MacTorrent
 torrent
 https://www.torrentmac.net/?s=%s
-番茄小说
-番茄
-https://fanqienovel.com/search/%s
 高德地图
 高德
 https://ditu.amap.com/search?query=%s
-IT技术之家
-it
-https://www.ittel.cn/?s=%s
 Z-Library - ebook library
 z-
 https://z-library.sk/s/?q=%s
@@ -350,15 +305,6 @@ https://dosbat.com/linux/list.html#!kw=%s
 linux内核
 linux内核
 https://duckduckgo.com/?q=%s+site%3Adocs.kernel.org&ia=web
-全球DNS查询
-dns
-https://dnschecker.org/#A/%s
-Github文档
-github文档
-https://docs.github.com/zh/search?query=%s
-前端面试题
-前端面试
-https://duckduckgo.com/?q=%s+site%3Aq.shanyue.tech&ia=web
 书栈网
 书栈网
 https://www.bookstack.cn/search/result?wd=%s
@@ -386,24 +332,12 @@ https://duckduckgo.com/?q=%s+site%3Acn.vuejs.org&ia=web
 大众点评
 大众点评
 https://www.dianping.com/search/keyword/1/0_%s
-虎扑 体育
-虎扑
-https://bbs.hupu.com/search?q=%s&topicId=&sortby=general&page=1
 大师兄视频
 大师兄
 https://dsxys.com/sb/kemksmaksdl7nhZe3c1-.html?wd=%s
 爱看视频
 爱看
 https://v.ikanbot.com/search?q=%s
-跑跑车
-跑跑车
-https://duckduckgo.com/?q=%s+site%3Awww.paopaoche.net&ia=web
-3DM
-3dm
-https://so.3dmgame.com/?keyword=%s
-3DM游戏
-3dm游戏
-https://duckduckgo.com/?q=%s+site%3Adl.3dmgame.com&ia=web
 百度
 baidu
 https://www.baidu.com/#tn=68018901_7_oem_dg&ie={inputEncoding}&wd=%s
@@ -437,57 +371,30 @@ https://www.google.com/maps/place/%E7%s
 Google地图
 map
 https://www.google.com/maps/place/%s
-DeepL翻译
-deepl
-https://www.deepl.com/zh/translator#zh/en-us/%s
-Google翻译
-谷歌翻译
-https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=%s&op=translate
-CodeIf程序员命名工具
-codeif
-https://unbug.github.io/codelf/#%s
-Python文档
-py
-https://duckduckgo.com/?q=%s+site%3Adocs.python.org&ia=web
 Vue CLI脚手架
 vuecli
 https://duckduckgo.com/?q=%s+site%3Acli.vuejs.org&ia=web
 Vitesse 跨端快速启动
 vitesse
 https://www.google.com/search?q=%s+site%3Avitesse-docs.netlify.app
-Dcloud 插件市场
-dcloud
-https://ext.dcloud.net.cn/search?q=%s
 HBuilderX文档
 hb
 https://www.google.com/search?q=%s+site:hx.dcloud.net.cn
 FreeMdict 词典资源分享
 词典资源
 https://duckduckgo.com/?q=%s+site%3Afreemdict.com&ia=web
-Astro 前端Web框架
-astro
-https://duckduckgo.com/?q=%s+site%3Adocs.astro.build%2Fzh-cn%2F&ia=web
 Docusaurus 静态网站生成器
 docusaurus
 https://duckduckgo.com/?q=%s+site%3Adocusaurus.io%2Fzh-CN%2F&ia=web
 Vue Vine 编写和组织 Vue 组件
 vine
 https://duckduckgo.com/?q=%s+site%3Avue-vine.dev&ia=web
-OpenEuler 社区
-open
-https://duckduckgo.com/?q=%s+site%3Awww.openeuler.org&ia=web
-learnku程序员社区go
-learnku
-https://learnku.com/search?q=%s
 SQLite中文网
 sqlite中文
 https://duckduckgo.com/?q=%s+site%3Asqlite.readdevdocs.com&ia=web
 SQLite
 sqlite
 https://www.sqlite.org/search?q=%s
-菜鸟鸭教程
-菜鸟鸭
-https://duckduckgo.com/?q=%s+site%3Awww.cainiaoya.com&ia=web
 Homebrew linux软件安装器
 brew
 https://duckduckgo.com/?q=%s+site%3Abrew.sh&ia=web
@@ -500,12 +407,6 @@ https://archive.ics.uci.edu/datasets/?search=%s
 node 中文文档
 node
 https://duckduckgo.com/?q=%s+site%3Anodejs.cn&ia=web
-dba iTbook 技术速查手册
-手册
-https://duckduckgo.com/?q=%s+site%3Adba.cn&ia=web
-Yandex 俄罗斯
-y
-https://yandex.com/search/?text=%s&from=os&clid=1836588
 W3Schools 开发教程
 w3s
 https://www.w3ccoo.com/?s=%s
@@ -608,36 +509,12 @@ https://sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&se
 人民网
 人民网
 http://search.people.cn/s/?keyword=%s
-创业邦
-创业邦
-https://duckduckgo.com/?q=%s+site%3Awww.cyzone.cn&ia=web
-电手
-电手
-https://duckduckgo.com/?q=%s+site%3Awww.dians.net&ia=web
 FreeBuf 网安
 fb
 https://www.freebuf.com/search?search=%s
-澎湃新闻
-澎湃
-https://www.thepaper.cn/searchResult?id=%s
-少数派
-少数派
-https://sspai.com/search?q=%s
-ZOL 中关村在线 IT
-中关村
-https://duckduckgo.com/?q=%s+site%3Awww.zol.com.cn&ia=web
-智潮工具库 | 聚合网站
-智潮
-https://chaotools.com/?post_type=sites&s=%s
 异星软件空间 | 安卓
 异星
 https://www.yxssp.com/?s=%s
-游民星空
-游民星空
-https://so.gamersky.com/?s=%s
-游侠网
-游侠网
-https://so.ali213.net/s/c?keyword=%s&group=0
 犬小哈 教程 | 破解
 犬小哈
 https://duckduckgo.com/?q=%s+site%3Awww.quanxiaoha.com&ia=web
@@ -668,102 +545,30 @@ https://duckduckgo.com/?q=%s+site%3Aes6.ruanyifeng.com&ia=web
 OSCHINA 中国开源
 中国开源
 https://duckduckgo.com/?q=%s+site%3Awww.oschina.net&ia=web
-廖雪峰 | 博客 教程
-廖雪峰
-https://duckduckgo.com/?q=%s+site%3Aliaoxuefeng.com&ia=web
 Linux 公社 | 教程
 公社
 https://www.linuxidc.net/search.php?mod=forum&searchid=7&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=%s
 洛雪音乐 | 下载
 洛雪
 https://www.lxmusic.cc/?s=%s&type=post
-简书
-简书
-https://www.jianshu.com/search?q=%s
-机械之心
-机械之心
-https://duckduckgo.com/?q=%s+site%3Awww.jiqizhixin.com&ia=web
 机械之心SOTA模型 | 开源AI
 sota
 https://duckduckgo.com/?q=%s+site%3Asota.jiqizhixin.com&ia=web
-TapTap
-tap
-https://www.taptap.cn/search/%s
 六音软件
 六音
 https://www.sixyin.com/?s=%s
-36氪 科技 财经
-36
-https://www.36kr.com/search/articles/%s
 赵利利博客 | GPT API
 赵利利
 https://duckduckgo.com/?q=%s+site%3Ablog.zetatechs.com&ia=web
-腾讯文档 | .
-腾讯文档
-https://docs.qq.com/desktop/%s
-大麦网
-大麦
-https://search.damai.cn/search.html?keyword=%s
-人人都手产品经理
-产品经理
-https://duckduckgo.com/?q=%s+site%3Aapi.woshipm.com&ia=web
-小宇宙
-小宇宙
-https://duckduckgo.com/?q=%s+site%3Awww.xiaoyuzhoufm.com&ia=web
 Zread 解读 GitHub 项目
 zre
 https://zread.ai/%s
 1Panel 面板
 1p
 https://duckduckgo.com/?q=%s+site%3A1panel.cn&ia=web
-最右 | .
-最右
-https://www.izuiyou.com/%s
 喜马拉雅FM
 fm
 https://www.ximalaya.com/so/%s
-InfoQ
-info
-https://s.geekbang.org/search/c=0/k=%s/t=?referrer=InfoQ
-Android 安卓 开发者
-安卓
-https://duckduckgo.com/?q=%s+site%3Adeveloper.android.google.cn&ia=web
-Apple 苹果招聘
-苹果招聘
-https://jobs.apple.com/zh-cn/search?search=%s&sort=relevance&location=china-CHNC
-阿里招聘 .
-阿里招聘
-https://duckduckgo.com/?q=%s+site%3Atalent.alibaba.com&ia=web
-爱奇艺招聘
-爱奇艺招聘
-https://careers.iqiyi.com/intern/?keywords=%s&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=
-百度招聘
-百度招聘
-https://talent.baidu.com/jobs/list?search=%s
-抖音开放平台
-抖音开放
-https://developer.open-douyin.com/search-page?keyword=%s&secondType=all&type=0
-谷歌开发者 .
-谷歌开发者
-https://duckduckgo.com/?q=%s+site%3Adevelopers.google.cn&ia=web
-京东招聘
-京东招聘
-https://zhaopin.jd.com/web/job_info_list/3?jobSearch=%s&jobTypeJson=&workCityJson=
-美团招聘
-美团招聘
-https://zhaopin.meituan.com/web/campus?keyword=%s
-腾讯招聘
-腾讯招聘
-https://careers.tencent.com/search.html?keyword=%s
-小红书招聘
-小红书招聘
-https://job.xiaohongshu.com/social/position?positionName=%s
-网易招聘
-网易招聘
-https://hr.163.com/job-list.html?keyword=%s
-字节招聘
-字节招聘
-https://jobs.bytedance.com/experienced/position/list?keywords=%s
 魔搭
 魔搭
 https://www.modelscope.cn/search?search=%s
@@ -773,63 +578,30 @@ https://www.bing.com/search?q=%s+site%3Ahttps%3A%2F%2Fwww.tongyi.com
 DeepSeek .
 deepseek
 https://duckduckgo.com/?q=%s+site%3Awww.deepseek.com&ia=web
-AITOP100 导航工具 比赛
-aitop
-https://duckduckgo.com/?q=%s+site%3Awww.aitop100.cn&ia=web
 LobeChat GPT Claude
 lobe
 https://duckduckgo.com/?q=%s+site%3Alobechat.com&ia=web
-快手
-快手
-https://www.kuaishou.com/search/video?searchKey=%s
-网道 | 互联网开发文档
-网道
-https://duckduckgo.com/?q=%s+site%3Awangdoc.com&ia=web
 今日头条
 头条
 https://so.toutiao.com/search?dvpf=pc&source=input&keyword=%s
-流光卡片 | 小红书 .
-卡片
-https://www.bing.com/search?q=%s%20site%3Aliuguangka.com
 公众号 微信 MD 编辑器 .
 公众号md
 https://md.doocs.org/%s
 Figma 设计 .
 figma
 https://duckduckgo.com/?q=%s+site%3Awww.figma.com&ia=web
-同花顺
-同花顺
-https://www.iwencai.com/unifiedwap/result?w=%s&querytype=stock
-多邻国 | .
-多邻国
-https://www.duolingo.cn/%s
-欧路词典
-欧路
-https://dict.eudic.net/dicts/en/%s
 淘片视频
 淘片
 https://taopianzy.net/search.html?keyword=%s
-句乐部 英语 | .
-句
-https://julebu.co/home/%s
-我爱音乐
-我爱音乐
-https://www.lovemusic520.com/search.html?keyword=%s
 笑匠音乐歌词库
 笑匠
 https://xiaojiangclub.com/search.php?q=%s
-爱壹帆 视频
-爱壹帆
-https://www.iyf.tv/search/%s
 歌词网
 歌词网
 https://lyrics.net.cn/search/?q=%s
 Shodan 网安 红队
 shodan
 https://www.shodan.io/search?query=%s&ref=os
-解压 .
-解压
-https://www.bing.com/search?pglt=417&q=%s+site%3Ahttps%3A%2F%2Fcn.fileunzip.com
 things PNG 图标图片 .
 things
 https://www.bing.com/search?pglt=417&q=%s+site%3Ahttps%3A%2F%2Fwww.thiings.co
@@ -869,9 +641,6 @@ https://chat.z.ai/?q=%s
 网盘资源
 pan
 https://panku8.com/s?q=%s
-uview uniapp UI库 | .
-uview
-https://www.bing.com/search?q=%s%20site%3Ahttps%3A%2F%2Fuviewui.com
 ip查询
 ip
 https://ip.cn/ip/%s.html
@@ -893,21 +662,12 @@ https://i.chaoxing.com/base?t=1758548785951/%s
 信息学奥赛一本通 | OJ | .
 信奥
 http://ybt.ssoier.cn:8088/index%sphp
-有道翻译 | .
-有道
-https://fanyi.youdao.com/%s
-听歌识曲 | .
-听歌识曲
-https://www.aha-music.com/?ref=www.itutool%scom
 视频解析下载 B站 抖音 | .
 视频下载
 https://www.bestvideow.com/%s
 猪八戒
 猪八戒
 https://www.zbj.com/fw/?k=%s
-customtkinter Py tk ui 库 | .
-ctk
-https://customtkinter.tomschimansky.com/%s
 飞书云文档 | .
 飞书
 https://q1pgkm5l16x.feishu.cn/drive/home/%s
@@ -950,18 +710,12 @@ https://wx.mail.qq.com/%s
 Bitwarden 密码管理器 | .
 bit
 https://vault.bitwarden.com/%s
-闪念笔记 | .
-笔记
-https://juejin.cn/flash-note?note_id=%s
 pandas py 数据处理
 pandas
 https://pandas.ac.cn/docs/search.html?q=%s
 matplotlib py 基础数据可视化库
 mat
 https://matplotlib.net.cn/search.html?q=%s
-微软招聘
-微软招聘
-https://jobs.careers.microsoft.com/global/en/search?q=%s&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true
 seaborn map py库 美化 作图
 sea
 https://seaborn.org.cn/%s
@@ -977,15 +731,9 @@ https://duckduckgo.com/?q=%s+site%3Ahttps%3A%2F%2Fwww.gishmedia.cn%2F&ia=web
 黑罐头 素材
 黑罐头
 https://www.heycan.com/material?from=hot&query=%s#all
-方糖07 一人公司
-07
-https://ft07.com/?s=%s
 远程工作招聘
 远程
 https://yuancheng.work/?s=%s
-有道词典
-有道词典
-https://www.youdao.com/result?word=%s&lang=en
 TTS转换工具 文本转换音频
 tts
 https://pronounceonline.com/search/?key=%s
@@ -1001,9 +749,6 @@ https://cse.google.com/cse?cx=bca0f3f1d079c0996#gsc.tab=0&gsc.q=%s
 TypeScript 文档
 ts
 https://duckduckgo.com/?q=%s+site%3Awww.tslang.cn&ia=web
-拼多多招聘 | .
-拼多多招聘
-https://careers.pddglobalhr.com/campus/%s
 开放原子大赛 | .
 开放原子
 https://competition.atomgit.com/search/%s
@@ -1040,9 +785,6 @@ https://ikuuu.one/%s
 unocss 中文文档 | .
 uno
 https://unocss.net/%s
-Vuetify Vue 组件 | .
-vuetify
-https://vuetifyjs.com/zh-Hans/%s
 翻页时钟 | .
 翻页时钟
 https://flipflow.neverup.cn/clock%shtml
