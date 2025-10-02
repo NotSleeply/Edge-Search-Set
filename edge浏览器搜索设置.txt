@@ -14,9 +14,6 @@ edge://history/syncedTabs?q=%s
 果核剥壳
 果核
 https://www.ghxi.com/?s=%s
-Greasy Fork 搜索
-gf
-https://greasyfork.org/zh-CN/scripts?q=%s&page={startPage?}
 知乎
 知乎
 https://www.zhihu.com/search?type=content&q=%s
@@ -80,9 +77,6 @@ https://www.55d6f5i3q7.shop/vodsearch/-------------.html?wd=%s
 百度翻译
 翻译
 https://fanyi.baidu.com/mtpe-individual/multimodal?query=%s&lang=zh2en
-git文档
-git文档
-https://duckduckgo.com/?q=%s+site%3Agit-scm.cn&ia=web
 sourceForge
 source
 https://duckduckgo.com/?q=%s+site%3Asourceforge.net&ia=web
@@ -95,9 +89,6 @@ https://zzk.cnblogs.com/s?w=%s
 Stack Overflow
 stack
 https://stackoverflow.com/search?q=%s
-Microsoft Learn微软
-微软
-https://duckduckgo.com/?q=%s+site%3Ahttps%3A%2F%2Flearn.microsoft.com%2F&ia=web
 菜鸟教程
 菜鸟
 https://www.runoob.com/?s=%s
@@ -149,9 +140,6 @@ https://www.npmjs.com/search?q=%s
 npm文档
 npm文档
 https://duckduckgo.com/?q=%s+site%3Anpm.nodejs.cn&ia=web
-Git文档
-git
-https://duckduckgo.com/?q=%s+site%3Agit-scm.com&ia=web
 QQ音乐
 qq音乐
 https://y.qq.com/n/ryqq/search?w=%s&t=song&remoteplace=txt.yqq.top
@@ -233,21 +221,9 @@ https://tianchi.aliyun.com/search?q=%s
 微信开放文档
 微信
 https://developers.weixin.qq.com/doc/search.html?source=enter&query=%s
-Linux命令
-linux
-https://www.linuxcool.com/?s=%s
-VM文档
-vm
-https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstation-pro/17-0/search.html?q=%s&page=1
-Linux命令教程
-lin命令
-https://duckduckgo.com/?q=%s+site%3Abashcommandnotfound.cn&ia=web
 北大数学
 北大数学
 https://duckduckgo.com/?q=%s+site%3Awww.math.pku.edu.cn&ia=web
-Linux文章教程
-linux教程
-https://duckduckgo.com/?q=%s+site%3Acn.linux-terminal.com&ia=web
 第一PPT
 第一ppt
 https://duckduckgo.com/?q=%s+site%3Awww.1ppt.com&ia=web
@@ -299,12 +275,6 @@ https://z-library.sk/s/?q=%s
 李立超前端
 李立超
 https://lilichao.com/?s=%s
-Linux命令列表
-linux命令
-https://dosbat.com/linux/list.html#!kw=%s
-linux内核
-linux内核
-https://duckduckgo.com/?q=%s+site%3Adocs.kernel.org&ia=web
 书栈网
 书栈网
 https://www.bookstack.cn/search/result?wd=%s
@@ -395,9 +365,6 @@ https://duckduckgo.com/?q=%s+site%3Asqlite.readdevdocs.com&ia=web
 SQLite
 sqlite
 https://www.sqlite.org/search?q=%s
-Homebrew linux软件安装器
-brew
-https://duckduckgo.com/?q=%s+site%3Abrew.sh&ia=web
 physionet 数据集
 phy
 https://physionet.org/content/?topic=%s
@@ -545,9 +512,6 @@ https://duckduckgo.com/?q=%s+site%3Aes6.ruanyifeng.com&ia=web
 OSCHINA 中国开源
 中国开源
 https://duckduckgo.com/?q=%s+site%3Awww.oschina.net&ia=web
-Linux 公社 | 教程
-公社
-https://www.linuxidc.net/search.php?mod=forum&searchid=7&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=%s
 洛雪音乐 | 下载
 洛雪
 https://www.lxmusic.cc/?s=%s&type=post
@@ -674,9 +638,6 @@ https://q1pgkm5l16x.feishu.cn/drive/home/%s
 飞书消息 | .
 飞书消息
 https://q1pgkm5l16x.feishu.cn/next/messenger/%s
-正则表达式 备忘录 | .
-正则
-https://regexlearn.com/zh-cn/cheatsheet/%s
 Datawhale 开源学习
 datawhale
 https://www.datawhale.cn/learn?learnPage=1&keywords=%s
